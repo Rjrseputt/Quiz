@@ -20,7 +20,7 @@ Quiz for Symphox
 
 ## Restful API
 - 以swagger-ui產生相關 API 頁面， jar 檔執行後路徑
- <p><http://localhost:8080/swagger-ui.html/></p>
+- <http://localhost:8080/swagger-ui.html/>
  
 ## H2 Console
 - <http://localhost:8080/h2-console/>
